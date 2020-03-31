@@ -6,6 +6,7 @@
 - https://github.com/3irdparty/AsyncNet 异步io skywind3000 韦一笑
 - https://github.com/3irdparty/coroutine c协程
 - https://github.com/3irdparty/CTP-TradeServer CTP 上期所 上海期货交易所 server
+- https://github.com/3irdparty/astar-algorithm-cpp astar
 
 ## golang
 - https://github.com/3irdparty/gocron golang cron 任务 调度
