@@ -43,3 +43,4 @@
 - https://github.com/3irdparty/chinese-xinhua 新华字典
 - https://github.com/3irdparty/AsciiFlow text 流程图
 - https://github.com/3irdparty/pages 一些论文
+- https://github.com/3irdparty/translations 翻译资料
