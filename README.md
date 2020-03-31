@@ -29,6 +29,7 @@
 - https://github.com/3irdparty/ctp-1 ctp go
 - https://github.com/3irdparty/ctpgo ctp go
 - https://github.com/3irdparty/Robot golang lua robot 机器人
+- https://github.com/3irdparty/goproxy http代理
 
 ## web h5 javascript js
 - https://github.com/3irdparty/sewise-player h5 video player
