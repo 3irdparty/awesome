@@ -30,6 +30,8 @@
 - https://github.com/3irdparty/ctpgo ctp go
 - https://github.com/3irdparty/Robot golang lua robot 机器人
 - https://github.com/3irdparty/goproxy http代理
+- https://gopkg.in/rana/ora.v4 golang oracle
+- https://github.com/golang/go/wiki/SQLDrivers golang sql drivers
 
 ## web h5 javascript js
 - https://github.com/3irdparty/sewise-player h5 video player
