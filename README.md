@@ -27,6 +27,7 @@
 - https://github.com/3irdparty/golang-samples golang示例
 - https://github.com/3irdparty/ctp ctp go
 - https://github.com/3irdparty/ctp-1 ctp go
+- https://github.com/3irdparty/ctpgo ctp go
 - https://github.com/3irdparty/Robot golang lua robot 机器人
 
 ## web h5 javascript js
