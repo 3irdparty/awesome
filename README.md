@@ -47,6 +47,7 @@
 
 ## linux
 - https://man.linuxde.net linux 命令分类大全
+- https://gywbd.github.io/posts/2014/8/50-linux-commands.html 50个最常用的Unix/Linux命令
 
 ## 其他
 - https://github.com/3irdparty/chinese-xinhua 新华字典
