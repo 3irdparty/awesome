@@ -40,6 +40,7 @@
 
 ## python
 - https://github.com/3irdparty/slowdos 慢连接攻击
+- https://github.com/3irdparty/RL-Stock AI 深度学习 人工智能 炒股
 
 ## 其他
 - https://github.com/3irdparty/chinese-xinhua 新华字典
