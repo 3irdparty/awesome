@@ -8,6 +8,7 @@
 - https://github.com/3irdparty/CTP-TradeServer CTP 上期所 上海期货交易所 server
 - https://github.com/3irdparty/astar-algorithm-cpp astar
 - https://github.com/3irdparty/vld 内存泄露检测
+- https://github.com/3irdparty/fastdfs cpp 分布式文件系统
 
 ## golang
 - https://github.com/3irdparty/conference go conference
