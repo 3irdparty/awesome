@@ -38,6 +38,7 @@
 - https://github.com/3irdparty/kingshard mysql proxy cluster
 - https://github.com/3irdparty/seaweedfs go 分布式文件系统
 - https://github.com/3irdparty/apidoc 文档生成工具
+- https://github.com/3irdparty/goquery 爬虫 html 抓取 解析
 
 ## web h5 javascript js
 - https://github.com/3irdparty/sewise-player h5 video player
