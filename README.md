@@ -35,6 +35,7 @@
 - https://gopkg.in/rana/ora.v4 golang oracle
 - https://github.com/golang/go/wiki/SQLDrivers golang sql drivers
 - https://github.com/3irdparty/kingshard mysql proxy cluster
+- https://github.com/3irdparty/seaweedfs go 分布式文件系统
 
 ## web h5 javascript js
 - https://github.com/3irdparty/sewise-player h5 video player
