@@ -9,6 +9,7 @@
 - https://github.com/3irdparty/astar-algorithm-cpp astar
 
 ## golang
+- https://github.com/3irdparty/conference go conference
 - https://github.com/3irdparty/gocron golang cron 任务 调度
 - https://github.com/3irdparty/govendor govendor
 - https://github.com/3irdparty/novel Golang小说采集展示站
