@@ -37,6 +37,7 @@
 - https://github.com/golang/go/wiki/SQLDrivers golang sql drivers
 - https://github.com/3irdparty/kingshard mysql proxy cluster
 - https://github.com/3irdparty/seaweedfs go 分布式文件系统
+- https://github.com/3irdparty/apidoc 文档生成工具
 
 ## web h5 javascript js
 - https://github.com/3irdparty/sewise-player h5 video player
