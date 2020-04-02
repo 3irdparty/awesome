@@ -33,6 +33,7 @@
 - https://github.com/3irdparty/goproxy http代理
 - https://gopkg.in/rana/ora.v4 golang oracle
 - https://github.com/golang/go/wiki/SQLDrivers golang sql drivers
+- https://github.com/3irdparty/kingshard mysql proxy cluster
 
 ## web h5 javascript js
 - https://github.com/3irdparty/sewise-player h5 video player
