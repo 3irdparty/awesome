@@ -41,6 +41,7 @@
 - https://github.com/3irdparty/goquery 爬虫 html 抓取 解析
 - https://github.com/3irdparty/pholcus 爬虫 幽灵蛛
 - https://github.com/3irdparty/livego go live 直播
+- https://github.com/3irdparty/GoSublime sublime go 插件
 
 ## web h5 javascript js
 - https://github.com/3irdparty/sewise-player h5 video player
