@@ -69,3 +69,4 @@
 - https://github.com/3irdparty/translations 翻译资料
 - https://github.com/3irdparty/logs logs
 - https://www.gitbook.com/book/wizardforcel/the-art-of-programming-by-july 面试算法心得
+- https://www.thingjs.com/guide/main 一键生成城市地图
