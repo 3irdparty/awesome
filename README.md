@@ -47,6 +47,7 @@
 - https://github.com/3irdparty/sewise-player h5 video player
 - https://github.com/3irdparty/FE-learning 结合个人经历总结的前端入门方法
 - https://github.com/3irdparty/websocket-protocol websocket协议
+- https://github.com/3irdparty/captcha-mini 图片验证码
 
 ## python
 - https://github.com/3irdparty/slowdos 慢连接攻击
