@@ -62,6 +62,17 @@
 - https://gywbd.github.io/posts/2014/8/50-linux-commands.html 50个最常用的Unix/Linux命令
 - https://github.com/3irdparty/bash-guide bash指南
 
+## leetcode
+- https://github.com/3irdparty/fucking-algorithm 手撕leetcode、文章
+- https://github.com/3irdparty/LeetCode-in-Go
+- https://github.com/hitzzc/go-leetcode
+- https://github.com/Hanqing1996/Leetocde cpp/java
+- https://github.com/lhuyuel/LC_CPP cpp
+- https://github.com/ljun20160606/leetcode
+- https://leetcode.openset.wang
+- https://github.com/cch123/leetcode-go
+- https://github.com/hitzzc/go-leetcode
+
 ## 其他
 - https://github.com/3irdparty/Markdown markdown 详解
 - https://github.com/3irdparty/chinese-xinhua 新华字典
