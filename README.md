@@ -60,6 +60,7 @@
 - https://github.com/3irdparty/dict 命令行下中英文翻译工具
 - https://github.com/3irdparty/fuck-login 模拟登录一些知名的网站，为了方便爬取需要登录的网站
 - https://github.com/3irdparty/grumpy python转成go
+- https://github.com/3irdparty/tools 渗透工具集合
 
 ## linux
 - https://man.linuxde.net linux 命令分类大全
