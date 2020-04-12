@@ -42,6 +42,7 @@
 - https://github.com/3irdparty/pholcus 爬虫 幽灵蛛
 - https://github.com/3irdparty/livego go live 直播
 - https://github.com/3irdparty/GoSublime sublime go 插件
+- https://github.com/3irdparty/captcha 验证码
 
 ## web h5 javascript js
 - https://github.com/3irdparty/sewise-player h5 video player
