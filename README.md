@@ -44,6 +44,7 @@
 - https://github.com/3irdparty/GoSublime sublime go 插件
 - https://github.com/3irdparty/captcha 验证码
 - https://github.com/3irdparty/base64Captcha base64验证码
+- https://github.com/3irdparty/hugo 建站
 
 ## web h5 javascript js
 - https://github.com/3irdparty/sewise-player h5 video player
