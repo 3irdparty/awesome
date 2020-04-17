@@ -83,6 +83,7 @@
 - https://github.com/3irdparty/GatherInfo 渗透测试信息搜集/内网渗透信息搜集
 
 ## 其他
+- https://github.com/3irdparty/awesome-resume 程序员简历模板
 - https://github.com/3irdparty/Markdown markdown 详解
 - https://github.com/3irdparty/chinese-xinhua 新华字典
 - https://github.com/3irdparty/AsciiFlow text 流程图
