@@ -12,7 +12,8 @@
 
 ## golang
 - https://github.com/3irdparty/conference go conference
-- https://github.com/3irdparty/gocron golang cron 任务 调度
+- https://github.com/3irdparty/gocron golang cron 任务 调度 界面
+- https://github.com/3irdparty/cron golang cron 任务 调度
 - https://github.com/3irdparty/govendor govendor
 - https://github.com/3irdparty/novel Golang小说采集展示站
 - https://github.com/3irdparty/realip realip
