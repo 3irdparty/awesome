@@ -54,6 +54,7 @@
 - https://github.com/3irdparty/websocket-protocol websocket协议
 - https://github.com/3irdparty/captcha-mini 图片验证码
 - https://github.com/3irdparty/nbnhhsh  拼音首字母缩写翻译工具
+- https://github.com/3irdparty/quadtree-js 四叉树，碰撞优化
 
 ## python
 - https://github.com/3irdparty/slowdos 慢连接攻击
