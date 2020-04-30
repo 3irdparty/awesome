@@ -47,6 +47,7 @@
 - https://github.com/3irdparty/base64Captcha base64验证码
 - https://github.com/3irdparty/hugo 建站
 - https://github.com/3irdparty/fuzzysearch 模糊搜索 模糊查找
+- https://github.com/3irdparty/tail 监听文件
 
 ## web h5 javascript js
 - https://github.com/3irdparty/sewise-player h5 video player
