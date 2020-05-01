@@ -51,6 +51,7 @@
 - https://github.com/3irdparty/shortuuid
 
 ## web h5 javascript js
+- https://github.com/3irdparty/vue-element-admin vue element admin 管理后台
 - https://github.com/3irdparty/sewise-player h5 video player
 - https://github.com/3irdparty/FE-learning 结合个人经历总结的前端入门方法
 - https://github.com/3irdparty/websocket-protocol websocket协议
