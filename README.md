@@ -104,3 +104,4 @@
 - https://github.com/3irdparty/Company-Names-Corpus 公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。
 - https://github.com/chrissimpkins/Crunch 图片压缩工具
 - https://github.com/3irdparty/Leanify 压缩 图片 zip apk
+- https://www.instagram.com/mookpichana/?hl=en 搜美女
