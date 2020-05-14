@@ -106,3 +106,4 @@
 - https://github.com/chrissimpkins/Crunch 图片压缩工具
 - https://github.com/3irdparty/Leanify 压缩 图片 zip apk
 - https://www.instagram.com/mookpichana/?hl=en 搜美女
+- https://github.com/3irdparty/Thief 上班摸鱼神器
