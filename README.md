@@ -49,6 +49,7 @@
 - https://github.com/3irdparty/fuzzysearch 模糊搜索 模糊查找
 - https://github.com/3irdparty/tail 监听文件
 - https://github.com/3irdparty/shortuuid
+- https://github.com/3irdparty/Dragonfly p2p
 
 ## web h5 javascript js
 - https://github.com/3irdparty/vue2-elm 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
