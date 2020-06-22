@@ -62,6 +62,7 @@
 - https://github.com/3irdparty/quadtree-js 四叉树，碰撞优化
 
 ## python
+- https://github.com/3irdparty/akshare 金融接口 股票，期货，期权，基金，债券，外汇等金融产品和另类数据从数据采集
 - https://github.com/3irdparty/slowdos 慢连接攻击
 - https://github.com/3irdparty/RL-Stock AI 深度学习 人工智能 炒股
 - http://baostock.com/baostock 证券宝是一个免费、开源的证券数据平台（无需注册）。
