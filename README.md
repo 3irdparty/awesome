@@ -63,6 +63,7 @@
 
 ## python
 - https://github.com/3irdparty/akshare 金融接口 股票，期货，期权，基金，债券，外汇等金融产品和另类数据从数据采集
+- http://baostock.com/baostock/index.php/%E9%A6%96%E9%A1%B5 股票数据接口 pip install --upgrade baostock
 - https://github.com/3irdparty/slowdos 慢连接攻击
 - https://github.com/3irdparty/RL-Stock AI 深度学习 人工智能 炒股
 - http://baostock.com/baostock 证券宝是一个免费、开源的证券数据平台（无需注册）。
