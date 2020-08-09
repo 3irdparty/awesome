@@ -71,6 +71,7 @@
 - https://github.com/3irdparty/dict 命令行下中英文翻译工具
 - https://github.com/3irdparty/fuck-login 模拟登录一些知名的网站，为了方便爬取需要登录的网站，验证码破解
 - https://github.com/3irdparty/geetest-crack 极验证 验证码 破解
+- https://github.com/3irdparty/selenium-python web测试框架 自动化测试 Web应用程序用户界面 (UI) 的常用框架
 - https://github.com/3irdparty/grumpy python转成go
 - https://github.com/3irdparty/tools 渗透工具集合
 - https://github.com/3irdparty/vehicle-license-plate-recognition 车牌识别 OpenCV
