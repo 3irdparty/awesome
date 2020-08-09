@@ -69,7 +69,8 @@
 - http://baostock.com/baostock 证券宝是一个免费、开源的证券数据平台（无需注册）。
 - https://github.com/3irdparty/show-me-the-code Python 练习册，每天一个小程序
 - https://github.com/3irdparty/dict 命令行下中英文翻译工具
-- https://github.com/3irdparty/fuck-login 模拟登录一些知名的网站，为了方便爬取需要登录的网站
+- https://github.com/3irdparty/fuck-login 模拟登录一些知名的网站，为了方便爬取需要登录的网站，验证码破解
+- https://github.com/3irdparty/geetest-crack 极验证 验证码 破解
 - https://github.com/3irdparty/grumpy python转成go
 - https://github.com/3irdparty/tools 渗透工具集合
 - https://github.com/3irdparty/vehicle-license-plate-recognition 车牌识别 OpenCV
