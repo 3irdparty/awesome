@@ -1,5 +1,9 @@
 # awesome
 
+## 区块链
+- https://github.com/3irdparty/eos_luckpoint EOS golang 游戏
+- https://www.jianshu.com/p/30bc70e034ca 1-从零开发EOS区块链小游戏系列 - 使用EOS Studio
+
 ## c/c++
 - https://github.com/3irdparty/epoll_threadpool epoll 线程池
 - https://github.com/3irdparty/srs rtmp server
